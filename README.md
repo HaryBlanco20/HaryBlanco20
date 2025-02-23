@@ -33,7 +33,7 @@ JavaScript: creación de scripts para automatización de pruebas
 
 Ágil: experiencia con **Scrum** y **Kanban** para la gestión de proyectos colaborativos
 
-## 🛠️ Mi mantra: 
+## 🛠️ Mi enfoque profesional: 
 
 **Test • Refine • Deliver** — Comprometida con la calidad, eficiencia y confiabilidad del software
 
