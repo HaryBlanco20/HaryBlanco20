@@ -1,6 +1,6 @@
 ![Banner](Portada.png)
 
-🌟 **Bienvenido a mi perfil de GitHub**
+🌟 **Bienvenido a mi perfil de GitHub**,
 Soy **Ariadne Blanco Vergaño**, Ingeniera de Sistemas y **QA Engineer** con más de **6 años de experiencia** en el aseguramiento de la calidad del software.
 
 ## 🛠️ **Habilidades Técnicas**
